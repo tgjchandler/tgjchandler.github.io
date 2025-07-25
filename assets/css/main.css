@@ -2414,16 +2414,13 @@ p {
 
 	#copyright {
 		text-align: center;
-		margin: 3em 0 2em 0;
+		margin: .5em 0 0 0;
 	}
 
 		#copyright ul.links {
 			display: inline-block;
-			background: #2C2929;
-			background: rgba(255, 255, 255, 0.05);
-			border-radius: 5px;
 			margin: 0;
-			padding: 0.85em 2.25em 0.85em 2.25em;
+			padding: 0.5em 2.25em 0 2.25em;
 		}
 
 /* XLarge */
